@@ -1,4 +1,4 @@
-module github.com/gojek-engineering/goconfig
+module github.com/mrcsilva/goconfig
 
 go 1.13
 
